@@ -1,0 +1,14 @@
+enum Months{
+	Jan,Feb,Mar,Apr,May,June,July,Aug,Sep,Oct,Nov,Dec
+}
+
+public class Switchtest {
+
+	public static void main(String[] args) {
+		
+		Months m= Months.June;
+		System.out.println(m);
+			
+	}
+
+}
